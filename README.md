@@ -10,7 +10,7 @@
 **Goldapp** is a web application that connects people looking for short-term apartment rentals with verified apartment owners.  
 It makes finding and booking shortlets easy, secure, and transparent — providing a bridge between **guests** who want comfort and **owners** who want visibility.
 
-The goal of ShortletConnect is to make short-term accommodation booking simple, reliable, and people-focused.
+The goal of Goldapp is to make short-term accommodation booking simple, reliable, and people-focused.
 
 ---
 
