@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏡 ShortletConnect
+# 🏡 Gold
 ### Seamlessly Connecting Guests with Shortlet Apartment Owners
 
 </div>
